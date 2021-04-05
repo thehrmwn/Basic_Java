@@ -44,6 +44,7 @@ class Lingkaran extends bangunDatar_class{ //4phir2 -
         return keliling;
     }
 }
+
 class persegiPanjang extends bangunDatar_class{ //p*l - 2p*2l
     float panjang;
     float lebar;
